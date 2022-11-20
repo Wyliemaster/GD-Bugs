@@ -26,7 +26,7 @@ Inside the file, enter the following
 [FIX]
   This will be an explanation on how to fix the bug if there is a fix. 
   If there is no fix then don't add this
-[/FIX] <!-- Optional -->>
+[/FIX] <!-- Optional -->
 
 [DETAILS]
   This will include a technical explanation into how the bug is implemented for nerds. 
