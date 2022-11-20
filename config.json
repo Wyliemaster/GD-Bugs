@@ -1,3 +1,6 @@
 {
- "files": ["vault_monster"]  
+ "files": [
+  "vault_monster",
+  "lost_stats"
+ ]
 }
