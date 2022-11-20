@@ -7,7 +7,7 @@
 [DETAILS]
 This bug is caused due to one of the game's Anticheat measures. after completing a level these conditions are checked if the level was 8* or higher<br>
 <b>The player has atleast 10 attempts</b><br>
-<b>The player jumped atleast 50 time</b><br>
+<b>The player jumped atleast 50 times</b><br>
 
 If these conditions are not met, the stats earned for completing the level are removed
 [/DETAILS]
