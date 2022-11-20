@@ -1,0 +1,9 @@
+[TITLE]Locked Vault Monster[/TITLE]
+
+[DESC]
+  Entering the basement to free the locked vault monster does not have any keys
+[/DESC]
+
+[FIX]
+  Save you account and then log out. log back in however, do not load your save data. You now re-complete the quest to free the monster. Once he has been freed <b>LOAD</b> your save data. This will merge the flag into your save
+[/FIX]
