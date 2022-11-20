@@ -35,3 +35,7 @@ Inside the file, enter the following
 ```
 
 Once you have finished the file, put it inside of the `bugs/` directory.
+
+### Issues
+
+If you know of a bug but don't know enough about it to contribute directly, you can submit an [Issue](https://github.com/Wyliemaster/GD-Bugs/issues) detailing what you know and other contributers can investigate and then add it to the database
