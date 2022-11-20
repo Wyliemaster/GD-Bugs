@@ -39,3 +39,14 @@ Once you have finished the file, put it inside of the `bugs/` directory.
 ### Issues
 
 If you know of a bug but don't know enough about it to contribute directly, you can submit an [Issue](https://github.com/Wyliemaster/GD-Bugs/issues) detailing what you know and other contributers can investigate and then add it to the database
+
+## Debugging
+
+If you want to see how the button would look on the website, a method that adds the button to the page exists. Although you will need to use the developer console
+
+- F12 to open dev tools
+- Go to console tab
+- type `create_btn({your button code goes here});`
+- press enter
+
+Now the button should have appeared on the website for you, to remove it, press F5
