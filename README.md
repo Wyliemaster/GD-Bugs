@@ -42,11 +42,4 @@ If you know of a bug but don't know enough about it to contribute directly, you 
 
 ## Debugging
 
-If you want to see how the button would look on the website, a method that adds the button to the page exists. Although you will need to use the developer console
-
-- F12 to open dev tools
-- Go to console tab
-- type `create_btn({your button code goes here});`
-- press enter
-
-Now the button should have appeared on the website for you, to remove it, press F5
+If you want to test your buttons before creating a `pull request`, a developer menu is available [here](https://wyliemaster.github.io/projects/bugs/debug.html)
