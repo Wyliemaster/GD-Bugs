@@ -2,7 +2,7 @@
 
 [DESC]Some player stats are removed upon opening the game[/DESC]
 
-[FIX]Waste 10 attempts or jump 50 times when completing rated levels with more than 7 stars[/FIX]
+[FIX]Waste 10 attempts or jump 50 times when completing rated levels that award more than 7 stars[/FIX]
 
 [DETAILS]
 This bug is caused due to one of the game's Anticheat measures. after completing a level these conditions are checked if the level was 8* or higher<br>
