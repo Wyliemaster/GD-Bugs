@@ -1,0 +1,7 @@
+[TITLE]
+  Demon Filter Bug
+[/TITLE]
+
+[DESC]
+  The plus button next to the demon icon on the level search page is not hidden if the demon difficulty is selected and the filters are cleared.
+[/DESC]
